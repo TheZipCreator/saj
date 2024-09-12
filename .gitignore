@@ -2,4 +2,5 @@
 # I would like to include the audacity project, but it's 1.9GB which is way too big for github
 # and I don't feel like buying LFS space
 *.aup3
+*.ods#
 soundImages/
