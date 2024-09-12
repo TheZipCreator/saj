@@ -1,0 +1,3 @@
+#!/bin/sh
+# Builds Saj.jar
+kotlinc src/*.kt -include-runtime -d Saj.jar
